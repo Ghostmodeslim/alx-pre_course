@@ -1,0 +1,48 @@
+[33mcommit 50f9342d73549baaf984d74d4e2b0ba96dd0a9b7[m[33m ([m[1;36mHEAD -> [m[1;32mupdate_script[m[33m, [m[1;31morigin/update_script[m[33m)[m
+Merge: f347877 555643b
+Author: Ghostmodeslim <ehimwenma.idemudia@outlook.com>
+Date:   Wed May 18 10:27:51 2022 -0700
+
+    Cool, all my changes will be now part of the main branch, ready to be deployed!
+
+[33mcommit 555643b18ba1b27923073c537d3b3f1bc6db5993[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: Ghostmodeslim <ehimwenma.idemudia@outlook.com>
+Date:   Tue May 17 14:20:29 2022 -0700
+
+    How to be up to date in git
+
+[33mcommit 62b64c4f62c089e02b590812b27c696d334bc71b[m
+Author: Ghostmodeslim <ehimwenma.idemudia@outlook.com>
+Date:   Tue May 17 22:15:08 2022 +0100
+
+    My Readme.md
+
+[33mcommit 738ec96470db28be2141443d9e769053804b7b7b[m
+Author: Ghostmodeslim <ehimwenma.idemudia@outlook.com>
+Date:   Tue May 17 11:32:55 2022 -0700
+
+    Hot fix
+
+[33mcommit f3478770f90bf2e6d9f95a8d7ba9a46c38daa741[m
+Author: Ghostmodeslim <ehimwenma.idemudia@outlook.com>
+Date:   Tue May 17 11:27:49 2022 -0700
+
+    My personal work
+
+[33mcommit d3e67b17336d906539081af24ea6a5a10bebc91f[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/list[m[33m)[m
+Author: Ehimwenma <ehimwenma.idemudia@outlook.com>
+Date:   Thu May 12 14:53:54 2022 -0700
+
+    Starting to code today, so cool
+
+[33mcommit ed6f7f45b6914957b40ad36976eff88897abae68[m
+Author: Ehimwenma <ehimwenma.idemudia@outlook.com>
+Date:   Thu May 12 14:41:52 2022 -0700
+
+    My second commit
+
+[33mcommit 0513dacea72ab00b8ae4053f44e185e977ee2650[m
+Author: Ehimwenma <ehimwenma.idemudia@outlook.com>
+Date:   Thu May 12 14:20:12 2022 -0700
+
+    My first commit
